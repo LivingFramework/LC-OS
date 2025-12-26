@@ -1,10 +1,10 @@
 # LC-OS
 **Lean Collaboration Operating System**
 
-LC-OS is a governance framework for long-horizon human–AI collaboration.
-It addresses a core problem in applied AI work: how to sustain stable, truthful, and executable collaboration over months and years rather than minutes.
-
-The framework is grounded in real, longitudinal human–AI collaboration and is documented through a sequence of peer-published research papers and a transparent collaboration ledger.
+LC-OS is a research-backed framework for long-term, reliable human–AI collaboration.
+It documents a year-long governed human–AI dyad and presents concrete methods
+for preventing drift, repairing failures, and maintaining truth and continuity
+across extended AI use.
 
 ---
 
