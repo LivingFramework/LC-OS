@@ -21,6 +21,11 @@ https://doi.org/10.17605/OSF.IO/VMK7Y
 
 **Zenodo Mirror:**
 https://zenodo.org/records/17760288
+
+**How to cite:**
+
+Sood, R. (2024). *Context-Engineered Human–AI Collaboration for Long-Horizon Tasks: A Case Study in Governance, Canonical Numerics, and Execution Control*.
+OSF. https://doi.org/10.17605/OSF.IO/VMK7Y
 ---
 
 ### **Paper 2 — LC-OS Framework & Execution Model**
@@ -41,6 +46,10 @@ https://zenodo.org/records/17760777
 Supporting templates, appendices, and execution artifacts are available here:
 Supplementary_Materials/Paper_2/
 
+**How to cite:**
+
+Sood, R. (2024). *The Lean Collaboration Operating System (LC-OS): A Practical Framework for Long-Term Human-AI Work*.
+OSF. https://doi.org/10.17605/OSF.IO/695AF
 ---
 
 ### **Paper 3 — Failure and Repair**
@@ -56,6 +65,11 @@ https://doi.org/10.17605/OSF.IO/Z7AQ8
 
 **Zenodo Mirror:**
 https://zenodo.org/records/17896542
+
+**How to cite:**
+
+Sood, R. (2024). *Failure and Repair in Long-Horizon Human–AI Collaboration: A Transparent Tracing Case Study*.
+OSF. https://doi.org/10.17605/OSF.IO/Z7AQ8
 
 ---
 
@@ -73,6 +87,10 @@ https://doi.org/10.17605/OSF.IO/ER4YT
 **Zenodo Mirror:**
 https://zenodo.org/records/18015990
 
+**How to cite:**
+
+Sood, R. (2024). *The Living Framework: Living with a Governed Human-AI Dyad*.
+OSF. https://doi.org/10.17605/OSF.IO/ER4YT
 ---
 
 ## Notes
