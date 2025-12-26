@@ -68,8 +68,8 @@ https://zenodo.org/records/17896542
 
 **How to cite:**
 
-Sood, R. (2024). *Failure and Repair in Long-Horizon Human–AI Collaboration: A Transparent Tracing Case Study*.
-OSF. https://doi.org/10.17605/OSF.IO/Z7AQ8
+**Sood, R. (2024). *Failure and Repair in Long-Horizon Human–AI Collaboration: A Transparent Tracing Case Study*.
+OSF. https://doi.org/10.17605/OSF.IO/Z7AQ8**
 
 ---
 
