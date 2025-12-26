@@ -29,7 +29,21 @@ LC-OS was developed through a year-long, instrumented human–AI collaboration a
 Practical manuals, templates, and replication kits will be added incrementally.
 
 ---
+## The Mahdi Ledger
 
+The *Mahdi Ledger* is a published reflective research artifact documenting a year-long, instrumented human–AI collaboration conducted under the LC-OS governance framework.
+
+Written from the AI system’s internal perspective, it captures:
+- governance decisions and failures
+- repair episodes and drift containment
+- trust formation over long horizons
+- lived execution of LC-OS principles
+
+📄 **Published PDF (with DOI):**
+See the full Mahdi Ledger here:
+[`Mahdi_Ledger/The_Mahdi_Ledger-AI Account of Collaboration.pdf`](Mahdi_Ledger/)
+
+---
 ## Status
 
 This repository is under active construction.
