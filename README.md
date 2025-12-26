@@ -20,6 +20,31 @@ Most human–AI interactions fail over time due to:
 LC-OS introduces governance controls, execution discipline, and repair mechanisms that allow a human–AI pair to operate reliably over extended horizons.
 
 ---
+## How to read this series
+
+This repository contains a sequence of related works. Readers do not need to read everything at once.
+
+Recommended order:
+
+1. **Paper 1 — Context & Governance Foundations**
+Start here to understand the core problem: why human–AI collaboration breaks down over time and why governance is required.
+
+2. **Paper 2 — LC-OS Framework & Execution Model**
+Read next to understand the operational system (LC-OS), its controls, and how collaboration is structured in practice.
+
+3. **Paper 3 — Failure and Repair**
+Focuses on how collaboration fails in real settings and how stability is restored through structured repair.
+
+4. **Paper 4 — The Living Framework**
+A longitudinal account of a real human–AI dyad living with these constraints over time.
+
+5. **The Mahdi Ledger**
+A published collaboration ledger that documents the lived execution trace behind the research.
+
+Readers interested in practice may begin with Paper 2.
+Readers interested in theory and foundations should begin with Paper 1.
+
+---
 
 ## Repository Contents
 
