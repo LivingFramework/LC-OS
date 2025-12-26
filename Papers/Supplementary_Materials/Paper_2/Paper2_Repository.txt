@@ -1,0 +1,57 @@
+  Title: 
+
+  Supplementary Files for
+  The Lean Collaboration Operating System (LC-OS): A Practical Framework for Long-Term Human–AI Work
+  (Associated with Paper 1 and Paper 2)
+
+  Authors:
+
+  Rishi Sood
+  Date: November 2025
+  Repository: OSF Project Archive – Human–AI Collaboration Series
+  
+  1. About This Repository
+
+  This OSF project contains the primary manuscript for Paper 2, its supporting supplementary materials, and the artefacts required to understand or replicate the LC-OS protocols used in long-term human–AI work.
+  The supplementary materials also fulfil previously stated artefact commitments from Paper 1.
+  
+  2. File List
+
+  Primary Files
+
+* Paper_2_Lean_Collaboration_OS_vFINAL.pdf
+  Final published-ready version of the paper.
+* Paper_2_Lean_Collaboration_OS_vFINAL.docx
+  Editable manuscript (author version).
+
+  Supplementary Materials
+
+* Supplemental_Materials.docx
+
+  One document containing:
+o LC-OS Operational Checklist
+o Worked Transparent Tracing Example
+o Version / Checksum Log Snippet
+
+  These materials support both Paper 1 and Paper 2.
+
+  Paper 1 (Reference)
+
+* Paper_1_FINAL_arXiv-OSF_vSUBMIT.pdf
+  Final archived version of Paper 1, referenced within the Paper 2 manuscript.
+  
+  3. Purpose of the Supplement Pack
+
+  The supplementary materials deliver:
+
+* the operational LC-OS toolkit in a compact form,
+* one drift ->  detection -> repair demonstration,
+* a lightweight version/log example as promised in Paper 1,
+* minimal artefacts required to understand the system’s workflow.
+
+  These materials are intentionally lightweight to remain accessible and reusable for future research in long-form human–AI collaboration.
+  
+  4. Contact / Requests
+
+  Additional non-personal data or artefacts referenced in the manuscripts (e.g., structural documents, pseudocode, or example logs) are available upon reasonable request.
+  
