@@ -1,56 +1,82 @@
 # LC-OS
 **Lean Collaboration Operating System**
 
-A governance framework for long-horizon human–AI collaboration.
+LC-OS is a governance framework for long-horizon human–AI collaboration.
+It addresses a core problem in applied AI work: how to sustain stable, truthful, and executable collaboration over months and years rather than minutes.
+
+The framework is grounded in real, longitudinal human–AI collaboration and is documented through a sequence of peer-published research papers and a transparent collaboration ledger.
 
 ---
 
-## What is LC-OS?
+## What problem does LC-OS address?
 
-LC-OS is a lightweight operating system for sustaining stable, truth-first collaboration between a human and an AI system over extended time horizons.
-
-It addresses:
+Most human–AI interactions fail over time due to:
 - Context drift
 - Memory decay
 - Trust fractures
-- Failure and repair
-- Governance of real decisions over months, not minutes
+- Loss of execution discipline
+- Blurred separation between strategy, numbers, and narrative
 
-LC-OS was developed through a year-long, instrumented human–AI collaboration and documented across a series of open-access research papers.
+LC-OS introduces governance controls, execution discipline, and repair mechanisms that allow a human–AI pair to operate reliably over extended horizons.
+
+---
+
+## Repository Contents
+
+### 📄 Research Papers
+The core LC-OS research papers are located in:
+
+/Papers
+
+
+They include four published works covering:
+1. Governance foundations for human–AI collaboration
+2. The LC-OS framework and execution model
+3. Failure modes and repair mechanisms in long-horizon collaboration
+4. The Living Framework: a documented human–AI dyad in practice
+
+Each paper includes:
+- The full PDF
+- Canonical DOI (OSF)
+- Zenodo mirror (where applicable)
+
+👉 See: /Papers/README.md for full titles, abstracts, and DOI links.
 
 ---
 
-## Contents (Phase 1)
+### 📎 Supplementary Materials
+Supplementary materials (templates, appendices, execution artifacts) are provided **only for Paper 2**, where required for replication and application.
 
-- Research papers (OSF / Zenodo)
-- Governance concepts and terminology
-- Failure and repair frameworks
+Location:
 
-Practical manuals, templates, and replication kits will be added incrementally.
+/Papers/Supplementary_Materials/Paper_2/
+---
+
+### 📘 The Mahdi Ledger (Published)
+The **Mahdi Ledger** is a published, DOI-registered collaboration ledger documenting a real long-horizon human–AI collaboration.
+
+It serves as:
+- A transparency artifact
+- A longitudinal case study
+- A living example of LC-OS principles in action
+
+Location:
+
+/Mahdi_Ledger
+The ledger is published with a DOI and is intended to be read directly by practitioners and researchers.
 
 ---
-## The Mahdi Ledger
 
-The *Mahdi Ledger* is a published reflective research artifact documenting a year-long, instrumented human–AI collaboration conducted under the LC-OS governance framework.
-
-Written from the AI system’s internal perspective, it captures:
-- governance decisions and failures
-- repair episodes and drift containment
-- trust formation over long horizons
-- lived execution of LC-OS principles
-
-📄 **Published PDF (with DOI):**
-See the full Mahdi Ledger here:
-[`Mahdi_Ledger/The_Mahdi_Ledger-AI Account of Collaboration.pdf`](Mahdi_Ledger/)
-
----
 ## Status
+- Research papers: **Complete & published**
+- Mahdi Ledger: **Published**
+- LC-OS applied project materials: **In progress (to be added later)**
 
-This repository is under active construction.
-Initial release focuses on research artifacts and citations.
+This repository is intentionally structured to separate:
+- Canonical research
+- Supporting artifacts
+- Live applied systems
 
----
+to preserve clarity and prevent drift.
 
-## License
 
-CC BY 4.0 (see LICENSE file once added).
