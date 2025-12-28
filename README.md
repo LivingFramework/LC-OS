@@ -104,4 +104,10 @@ This repository is intentionally structured to separate:
 
 to preserve clarity and prevent drift.
 
+## Practitioner Project
 
+For templates, field manual, quick start, and applied adoption materials,
+see the LC-OS Project repository:
+
+🛠️ LC-OS Project:
+https://github.com/LivingFramework/LC-OS-Project
