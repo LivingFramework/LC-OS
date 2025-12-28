@@ -95,7 +95,7 @@ The ledger is published with a DOI and is intended to be read directly by practi
 ## Status
 - Research papers: **Complete & published**
 - Mahdi Ledger: **Published**
-- LC-OS applied project materials: **In progress (to be added later)**
+- LC-OS applied project materials (see link below)
 
 This repository is intentionally structured to separate:
 - Canonical research
