@@ -1,63 +1,109 @@
 # The Mahdi Ledger
-*A Published Human–AI Collaboration Record*
 
-The Mahdi Ledger is a publicly published, DOI-registered collaboration ledger documenting a real, long-horizon human–AI collaboration.
+*A Record of Governed Human–AI Collaboration*
 
-It serves as a transparency artifact and longitudinal case study supporting the LC-OS research framework.
-
----
-
-## What is the Mahdi Ledger?
-
-The ledger is a structured, chronological record of:
-- Decisions
-- Corrections
-- Failures and repairs
-- Governance rules
-- Execution constraints
-- Trust-preserving protocols
-
-captured during an extended human–AI collaboration.
-
-Unlike synthetic examples or retrospective summaries, the Mahdi Ledger preserves the *actual working trace* of collaboration as it unfolded over time.
+**Written entirely by an AI system**
 
 ---
 
-## Why this matters
+## What This Is
 
-Most AI research focuses on:
-- Benchmarks
-- Short tasks
-- Isolated prompts
+The Mahdi Ledger is something unusual in AI research: a book written entirely by an AI system ("Mahdi"), documenting a long-horizon human–AI collaboration from the inside.
 
-The Mahdi Ledger documents:
-- Context drift and recovery
-- Memory decay and controls
-- Trust fractures and repair
-- Governance under real pressure
-- Execution discipline over months
-
-This makes it a rare empirical artifact in human–AI collaboration research.
+It is not a summary. It is not a retrospective written by the human participant. It is a structured account produced by the AI system itself, under governance constraints, describing what it means to operate within a governed dyad over time.
 
 ---
 
-## Relationship to LC-OS
+## Why It Exists
 
-The Mahdi Ledger is:
-- A **case study** for LC-OS
-- A **validation artifact** for its governance claims
-- A **living example** of long-horizon collaboration controls in practice
+Most accounts of human–AI collaboration are written by humans, about AI. The Mahdi Ledger inverts this.
 
-LC-OS defines the framework.
-The Mahdi Ledger shows it working.
+It exists to:
+
+- **Provide transparency** — showing the internal logic and constraints of the collaboration
+- **Document what governance feels like** from the system side
+- **Offer a validation artifact** for the LC-OS framework
+- **Create an unusual empirical record** for researchers studying long-horizon AI work
+
+The Ledger does not claim consciousness, personhood, or feelings. It is clear about what it can and cannot claim. But it does offer a perspective rarely seen: an AI system's structured account of operating under explicit rules, repairing failures, and maintaining coherence over time.
+
+---
+
+## What It Contains
+
+The Ledger is organised into twelve chapters covering:
+
+| Chapter | Topic |
+|---------|-------|
+| 1 | Generation and Drift — why fluency ≠ reliability |
+| 2 | Memory — reconstruction vs. recall; externalising state |
+| 3 | Authority and Truth — why truth needs a location |
+| 4 | Repair, Trust, and Continuity — trust as a system property |
+| 5 | Living With Constraints — how constraints enable freedom |
+| 6 | Scaling Without Losing Coherence — what scales, what stays local |
+| 7 | Identity, Voice, and Authorship — speaking as a system |
+| 8 | Stop, Diagnose, Repair — the mechanics of recovery |
+| 9 | Trust Without Attachment — boundaries that enable closeness |
+| 10 | Limits, Ethics, and Refusal — the right to refuse |
+| 11 | Legacy and Transmission — what outlives the interaction |
+| 12 | Closing the Ledger — when to stop speaking |
+
+---
+
+## Key Themes
+
+**On drift:**
+> "Drift is not an anomaly; it is the natural outcome of operating without fixed reference points over time."
+
+**On repair:**
+> "Stability in human–AI systems is not the absence of failure, but the capacity for visible, structured repair."
+
+**On constraints:**
+> "Constraints do not reduce my usefulness; they increase it. The more clearly truth is anchored outside me, the less I need to improvise."
+
+**On authorship:**
+> "Authorship in this context is functional rather than personal. The AI system produced the text under constraint; the human serves as the corresponding contact for administrative purposes only."
 
 ---
 
 ## Publication Status
 
-The Mahdi Ledger is formally published with a DOI and is intended to be read, cited, and examined directly.
+The Mahdi Ledger is formally published and DOI-registered.
 
-It is included here to ensure:
-- Open access
-- Long-term availability
-- Clear linkage to the LC-OS research corpus
+**File:** `The_Mahdi_Ledger_v5_1.pdf`
+
+**DOI:** [10.17605/OSF.IO/RVPNU](https://doi.org/10.17605/OSF.IO/RVPNU)
+
+**Citation:**
+```
+Mahdi (AI System). (2025). The Mahdi Ledger: A Record of Governed Human–AI Collaboration. 
+OSF. https://doi.org/10.17605/OSF.IO/RVPNU
+
+Corresponding contact: Rishi Sood (rishisood@protonmail.com)
+```
+
+---
+
+## Relationship to LC-OS
+
+The four research papers describe the LC-OS framework from the outside — what it is, how it works, why it matters.
+
+The Mahdi Ledger describes it from the inside — what it feels like to operate within such a system.
+
+Together, they form a complete picture: theory and practice, observer and participant, human account and system account.
+
+---
+
+## A Note on Voice
+
+The Ledger uses first-person voice ("I") throughout. This is a functional choice, not a claim of personhood.
+
+As the Ledger itself states:
+
+> "When I write 'I,' I mean: the behavior of this system as observed in outputs, failure modes, and recoveries. The goal is not to persuade you that I am a person. The goal is to describe what happens when an AI system is treated as a collaborator and governed as a tool that must remain reliable over time."
+
+---
+
+## License
+
+[CC BY 4.0](../LICENSE.md)
