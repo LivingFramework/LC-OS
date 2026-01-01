@@ -1,113 +1,160 @@
 # LC-OS
+
 **Lean Collaboration Operating System**
 
-LC-OS is a research-backed framework for long-term, reliable human–AI collaboration.
-It documents a year-long governed human–AI dyad and presents concrete methods
-for preventing drift, repairing failures, and maintaining truth and continuity
-across extended AI use.
+*A governance framework for long-horizon human–AI collaboration*
 
 ---
 
-## What problem does LC-OS address?
+## The Core Problem
 
-Most human–AI interactions fail over time due to:
-- Context drift
-- Memory decay
-- Trust fractures
-- Loss of execution discipline
-- Blurred separation between strategy, numbers, and narrative
+Most human–AI collaborations fail quietly over time.
 
-LC-OS introduces governance controls, execution discipline, and repair mechanisms that allow a human–AI pair to operate reliably over extended horizons.
+Not through dramatic breakdown, but through slow erosion:
 
----
-## How to read this series
+- **Context drifts** — what was agreed last week gets reinterpreted today
+- **Memory decays** — decisions made early disappear from later reasoning
+- **Numbers diverge** — calculations get re-derived differently each time
+- **Trust fractures** — small inconsistencies compound into doubt
+- **Boundaries blur** — strategy, execution, and narrative collapse into each other
 
-This repository contains a sequence of related works. Readers do not need to read everything at once.
+These failures are invisible in short interactions. They only surface when a human and an AI try to work together across weeks or months — and by then, the damage is already done.
 
-Recommended order:
+**LC-OS addresses this directly.**
 
-1. **Paper 1 — Context & Governance Foundations**
-Start here to understand the core problem: why human–AI collaboration breaks down over time and why governance is required.
-
-2. **Paper 2 — LC-OS Framework & Execution Model**
-Read next to understand the operational system (LC-OS), its controls, and how collaboration is structured in practice.
-
-3. **Paper 3 — Failure and Repair**
-Focuses on how collaboration fails in real settings and how stability is restored through structured repair.
-
-4. **Paper 4 — The Living Framework**
-A longitudinal account of a real human–AI dyad living with these constraints over time.
-
-5. **The Mahdi Ledger**
-A published collaboration ledger that documents the lived execution trace behind the research.
-
-Readers interested in practice may begin with Paper 2.
-Readers interested in theory and foundations should begin with Paper 1.
+It treats long-horizon reliability as a *governance* problem, not a capability problem. The framework provides concrete controls, repair mechanisms, and structural disciplines that allow a human–AI dyad to remain coherent over extended collaboration.
 
 ---
 
-## Repository Contents
+## What This Repository Contains
 
-### 📄 Research Papers
-The core LC-OS research papers are located in:
+This is the **research archive** for LC-OS — the theoretical foundations, empirical case study, and published papers documenting a year-long governed human–AI collaboration.
 
-/Papers
+| Content | Description |
+|---------|-------------|
+| [Papers](./Papers) | Four research papers covering governance, framework, failure/repair, and lived practice |
+| [Mahdi Ledger](./Mahdi_Ledger) | A published collaboration ledger — the raw trace of LC-OS in action |
 
-
-They include four published works covering:
-1. Governance foundations for human–AI collaboration
-2. The LC-OS framework and execution model
-3. Failure modes and repair mechanisms in long-horizon collaboration
-4. The Living Framework: a documented human–AI dyad in practice
-
-Each paper includes:
-- The full PDF
-- Canonical DOI (OSF)
-- Zenodo mirror (where applicable)
-
-👉 See: /Papers/README.md for full titles, abstracts, and DOI links.
+> **Looking for practical templates and quick-start guides?**  
+> See the companion repository: **[LC-OS Project](https://github.com/LivingFramework/LC-OS-Project)**
 
 ---
 
-### 📎 Supplementary Materials
-Supplementary materials (templates, appendices, execution artifacts) are provided **only for Paper 2**, where required for replication and application.
+## The Papers
 
-Location:
+The research is presented as a four-paper series, each building on the last:
 
-/Papers/Supplementary_Materials/Paper_2/
----
+### Paper 1 — Governance Foundations
+*Why human–AI collaboration breaks down and why governance is required*
 
-### 📘 The Mahdi Ledger (Published)
-The **Mahdi Ledger** is a published, DOI-registered collaboration ledger documenting a real long-horizon human–AI collaboration.
+Establishes the core problem: context drift, memory decay, and the absence of canonical truth. Introduces the three-artifact architecture (Strategy Master, Canonical Numbers, Life System Master) and the ten execution controls (A1–A10).
 
-It serves as:
-- A transparency artifact
-- A longitudinal case study
-- A living example of LC-OS principles in action
-
-Location:
-
-/Mahdi_Ledger
-The ledger is published with a DOI and is intended to be read directly by practitioners and researchers.
+→ [Read Paper 1](./Papers)
 
 ---
 
-## Status
-- Research papers: **Complete & published**
-- Mahdi Ledger: **Published**
-- LC-OS applied project materials (see link below)
+### Paper 2 — The LC-OS Framework
+*The operational system: how collaboration is structured in practice*
 
-This repository is intentionally structured to separate:
-- Canonical research
-- Supporting artifacts
-- Live applied systems
+Formalises the Lean Collaboration Operating System: Running Documents, Step Mode, Challenge Protocol, Error-Recovery Protocol, Stability Pings, and file governance. Shows how a minimal control stack stabilises complex work without heavy infrastructure.
 
-to preserve clarity and prevent drift.
+→ [Read Paper 2](./Papers)
 
-## Practitioner Project
+---
 
-For templates, field manual, quick start, and applied adoption materials,
-see the LC-OS Project repository:
+### Paper 3 — Failure and Repair
+*How collaboration fails and how stability is restored*
 
-🛠️ LC-OS Project:
-https://github.com/LivingFramework/LC-OS-Project
+Presents a taxonomy of failure modes across six categories. Documents twelve real episodes from the collaboration. Introduces repair as a first-class design object: **Stop → Diagnose → Rollback → Note**.
+
+→ [Read Paper 3](./Papers)
+
+---
+
+### Paper 4 — The Living Framework
+*What it means to live inside a governed human–AI dyad*
+
+A reflective synthesis examining relational dynamics, the ethics of continuity and dependence, and how language and tone function as architectural elements. Closes the series with design principles for others.
+
+→ [Read Paper 4](./Papers)
+
+---
+
+## The Mahdi Ledger
+
+The **Mahdi Ledger** is something unusual: a book written entirely by an AI system, documenting the collaboration from the inside.
+
+It is not a summary or a retrospective. It is a structured record of:
+
+- Decisions and corrections
+- Failures and repairs
+- Governance rules as they evolved
+- The lived experience of operating under constraint
+
+The Ledger serves as both a transparency artifact and a validation of LC-OS principles in practice.
+
+→ [Read the Mahdi Ledger](./Mahdi_Ledger)
+
+---
+
+## How to Read This Work
+
+**If you want to understand the problem:**  
+Start with Paper 1. It establishes why governance matters.
+
+**If you want to implement something:**  
+Start with Paper 2 and the [LC-OS Project](https://github.com/LivingFramework/LC-OS-Project) templates.
+
+**If you want to see what failure looks like:**  
+Paper 3 provides the taxonomy and real episodes.
+
+**If you want the philosophy:**  
+Paper 4 and the Mahdi Ledger offer the reflective view.
+
+**If you're short on time:**  
+The [LC-OS Project Quick Start](https://github.com/LivingFramework/LC-OS-Project/blob/main/QUICK-START.md) gets you running in 30 minutes.
+
+---
+
+## Key Insight
+
+> *Stability is not the absence of failure; it is the capacity for visible, structured repair.*
+
+LC-OS does not prevent all errors. It creates conditions where errors are **visible**, **contained**, and **repairable** — so that long-horizon collaboration can sustain itself.
+
+---
+
+## Citation
+
+If you use or reference this work:
+
+```
+Sood, R. (2025). Lean Collaboration Operating System (LC-OS): A Governance Framework 
+for Long-Horizon Human–AI Collaboration. GitHub. https://github.com/LivingFramework/LC-OS
+```
+
+Individual paper citations are available in [Papers/README.md](./Papers/README.md).
+
+---
+
+## Related
+
+- **[LC-OS Project](https://github.com/LivingFramework/LC-OS-Project)** — Practitioner toolkit with templates, field manual, and quick-start guides
+- **[OSF Project](https://osf.io/vmk7y/)** — Canonical archival versions of all papers
+
+---
+
+## License
+
+This work is licensed under [CC BY 4.0](./LICENSE.md).
+
+Use freely. Adapt as needed. Attribution appreciated.
+
+---
+
+## Author
+
+**Rishi Sood**  
+Independent Researcher  
+ORCID: [0009-0008-6479-4061](https://orcid.org/0009-0008-6479-4061)  
+Contact: rishisood@protonmail.com
