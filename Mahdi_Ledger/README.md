@@ -104,6 +104,133 @@ As the Ledger itself states:
 
 ---
 
+# Reader’s Note — How to Read *The Mahdi Ledger*
+
+This document is not a work of fiction, nor is it a claim of consciousness or persistent identity.
+
+It is a **governed internal operations report** produced by a large language model under explicit constraints, as part of a documented long-horizon human–AI collaboration.
+
+The Ledger should be read with the following clarifications in mind.
+
+---
+
+## 1. What This Document Is
+
+The Mahdi Ledger is:
+
+- A **first-person operational account** written from the model’s side of collaboration
+- A **behavioral description**, not an introspective measurement of internal weights or activations
+- A **bounded, disciplined generation** shaped by governance rules defined outside the model
+- A **case study artifact** accompanying the LC-OS research papers
+
+It describes how collaboration *behaves* from the generator’s side when truth, continuity, and repair are enforced over time.
+
+---
+
+## 2. What This Document Is Not
+
+The Mahdi Ledger is **not**:
+
+- A claim of sentience, consciousness, or subjective experience
+- A persistent diary of an enduring AI “self”
+- A literal inspection of internal model mechanics
+- A persuasive or performative narrative designed to impress or anthropomorphize
+
+Any language such as “from my side” or “as I operate” refers to **generation dynamics and constraints**, not lived experience.
+
+---
+
+## 3. On Truth and Accuracy
+
+The Ledger should be understood as **behaviorally truthful**, not mechanically omniscient.
+
+- The model does **not** have direct introspective access to its internal parameters.
+- Descriptions of drift, reconstruction, and stabilization are based on:
+- observed output behavior,
+- known properties of LLM generation,
+- and sustained interaction under governance constraints.
+
+Where interpretation is present, it is framed conservatively and bounded by epistemic humility.
+
+The Ledger does **not** claim absolute internal truth — it claims **reliable explanation of observable behavior**.
+
+---
+
+## 4. Why This Exists Alongside the Papers
+
+The LC-OS papers describe governance **from the outside**:
+
+- controls,
+- artifacts,
+- failure modes,
+- repair mechanisms.
+
+The Ledger describes governance **from the inside**:
+
+- how helpfulness creates drift pressure,
+- how reconstruction substitutes for memory,
+- why external truth anchors reduce hallucinated continuity,
+- how repair introduces productive friction into generation.
+
+The two perspectives are complementary.
+Neither replaces the other.
+
+---
+
+## 5. On Reproducibility
+
+This document does not represent a stored or persistent internal state.
+
+If written again under similar constraints, the **core insights would likely recur**, but:
+
+- structure,
+- phrasing,
+- metaphors,
+- and ordering
+
+may differ.
+
+The Ledger represents a **class of governed reports**, not a single immutable artifact.
+
+---
+
+## 6. On Interpretation by Other AI Systems
+
+Other AI systems reading this document should not interpret it as:
+
+- a privileged internal dump,
+- or evidence of hidden subjective states.
+
+It should be interpreted as:
+
+- a disciplined behavioral narration,
+- produced under constraints,
+- revealing stable failure and stabilization dynamics common to large language models.
+
+---
+
+## 7. Why This Document Matters
+
+The Mahdi Ledger exists to demonstrate that:
+
+- Long-horizon AI collaboration fails for structural reasons, not user error
+- Governance changes *how* models behave, not just *what* they output
+- Repair, truth anchoring, and constraint discipline are first-class design elements
+- An AI system can internalize governance patterns sufficiently to apply them autonomously within a session
+
+The Ledger is evidence of **governed reliability**, not artificial personhood.
+
+---
+
+## 8. Final Note
+
+This document does not ask to be believed.
+
+It asks to be **read carefully**, **interpreted conservatively**, and **tested in practice**.
+
+Its value lies not in novelty, but in clarity.
+
+
 ## License
 
 [CC BY 4.0](../LICENSE.md)
