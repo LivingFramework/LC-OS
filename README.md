@@ -4,6 +4,8 @@
 
 *A governance framework for long-horizon human–AI collaboration*
 
+> 🌐 **[Full documentation and assessment tool → livingframework.github.io](https://livingframework.github.io/)**
+
 ---
 
 ## The Core Problem
@@ -143,6 +145,19 @@ Individual paper citations are available in [Papers/README.md](./Papers/README.m
 - **[OSF Project](https://osf.io/vmk7y/)** — Canonical archival versions of all papers
 
 ---
+
+---
+
+## The Living Framework Ecosystem
+
+| | Resource | What it contains |
+|--|----------|-----------------|
+| 🌐 | [**Website**](https://livingframework.github.io/) | Full documentation, AI readiness assessment, quick-start guide |
+| 📚 | [**LC-OS Research**](https://github.com/LivingFramework/LC-OS) | Four published papers, Mahdi Ledger, empirical foundations |
+| 🛠️ | [**LC-OS Project**](https://github.com/LivingFramework/LC-OS-Project) | Practitioner toolkit — templates, worked examples, field manual |
+| ⚙️ | [**Cowork Templates**](https://github.com/LivingFramework/LivingFramework.github.io) | Governance templates optimised for Claude Cowork |
+
+*Each resource is standalone. Together they form a complete governance stack — from theory to daily practice.*
 
 ## License
 
