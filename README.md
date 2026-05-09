@@ -46,7 +46,7 @@ This is the **research archive** for LC-OS — the theoretical foundations, empi
 
 ## The Research Program
 
-Eight peer-reviewed papers and one companion book document the full development of this framework — from the first governance experiments through to a formal theory of validation in AI systems.
+Eight published papers and one companion book document the full development of this framework — from the first governance experiments through to a formal theory of validation in AI systems.
 
 The research is grounded in **18+ months of empirical longitudinal data** from a single sustained human–AI collaboration, including 12 documented failure episodes with full trace data.
 
@@ -295,7 +295,7 @@ Individual paper citations are available in [Papers/README.md](https://github.co
 ## Related
 
 - **[LC-OS Project](https://github.com/LivingFramework/LC-OS-Project)** — Practitioner toolkit with templates, field manual, and quick-start guides
-- **[OSF Project](https://osf.io/vmk7y/)** — Canonical archival versions of all papers
+- **[OSF Project](https://osf.io/7h6x8/)** — Canonical archival versions of all papers
 - **[Cowork Templates](https://github.com/LivingFramework/LivingFramework.github.io)** — Governance templates optimised for Claude Cowork
 
 ---
