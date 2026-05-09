@@ -70,7 +70,7 @@ The Ledger is organised into twelve chapters covering:
 
 The Mahdi Ledger is formally published and DOI-registered.
 
-**File:** `The_Mahdi_Ledger_v5_1.pdf`
+**File:** `The_Mahdi_Ledger-AI Account of Collaboration.pdf`
 
 **DOI:** [10.17605/OSF.IO/RVPNU](https://doi.org/10.17605/OSF.IO/RVPNU)
 
