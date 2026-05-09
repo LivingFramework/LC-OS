@@ -55,6 +55,34 @@ references:
         given-names: Rishi
     doi: "10.17605/OSF.IO/ER4YT"
     year: 2025
+  - type: article
+    title: "Control Without Code: Linguistic Governance in Long-Horizon Human–AI Collaboration"
+    authors:
+      - family-names: Sood
+        given-names: Rishi
+    doi: "10.5281/zenodo.18900058"
+    year: 2026
+  - type: article
+    title: "Governance Architecture for Reliable Long-Horizon Human–AI Collaboration"
+    authors:
+      - family-names: Sood
+        given-names: Rishi
+    doi: "10.5281/zenodo.19038340"
+    year: 2026
+  - type: article
+    title: "Governed Distributed Cognition: A Model of Stable Reasoning in Long-Horizon Human–AI Systems"
+    authors:
+      - family-names: Sood
+        given-names: Rishi
+    doi: "10.17605/OSF.IO/NCRP2"
+    year: 2026
+  - type: article
+    title: "AI Validation Systems: A Missing Architectural Layer for Reliable AI"
+    authors:
+      - family-names: Sood
+        given-names: Rishi
+    doi: "10.5281/zenodo.19983551"
+    year: 2026
   - type: book
     title: "The Mahdi Ledger: A Record of Governed Human–AI Collaboration"
     authors:
