@@ -8,6 +8,20 @@
 
 ---
 
+## Status
+
+| Field | Status |
+|---|---|
+| Research status | Active corpus |
+| License | CC BY 4.0 |
+| Papers | 8 |
+| Ledger | 1 AI-authored collaboration ledger |
+| Primary archive | OSF |
+| Mirror / discovery | Zenodo |
+| Practitioner toolkit | [LC-OS Project](https://github.com/LivingFramework/LC-OS-Project) |
+
+---
+
 ## Start Here
 
 LC-OS is a **research archive**, not a software package or template library. It contains the published research corpus behind the Lean Collaboration Operating System: eight papers, one AI-authored ledger, and research architecture documents that make the corpus navigable.
@@ -16,9 +30,58 @@ LC-OS is a **research archive**, not a software package or template library. It 
 |---|---|
 | New to LC-OS | [READER_GUIDE.md](READER_GUIDE.md) |
 | Looking for the full argument in one place | [Research_Architecture/UNIFIED_SYNTHESIS.md](Research_Architecture/UNIFIED_SYNTHESIS.md) |
+| Looking for the corpus sequence | [CORPUS_MAP.md](CORPUS_MAP.md) |
 | Looking for paper-by-paper metadata | [Research_Architecture/RESEARCH_INDEX.md](Research_Architecture/RESEARCH_INDEX.md) |
 | Trying to cite this work | [CITATION_GUIDE.md](CITATION_GUIDE.md) and [CITATION.cff](CITATION.cff) |
 | Looking for templates or practical implementation tools | [LC-OS Project](https://github.com/LivingFramework/LC-OS-Project) |
+| Looking for archive rules | [ARCHIVE_POLICY.md](ARCHIVE_POLICY.md) and [CONTRIBUTING.md](CONTRIBUTING.md) |
+
+---
+
+## Corpus Map
+
+```text
+Core problem
+Quiet failure in long-horizon human-AI collaboration
+        |
+        v
+Paper 1 - Foundations
+Context engineering, canonical artefacts, A-controls
+        |
+        v
+Paper 2 - LC-OS Method
+Running Documents, Step Mode, Challenge Protocol, Stability Ping
+        |
+        v
+Paper 3 - Failure and Repair
+F1-F6 taxonomy, SDRN, TraceSpec
+        |
+        v
+Mahdi Ledger - Historical Trace
+AI-authored account from inside the governed system
+        |
+        v
+Paper 4 - Relational Layer
+Trust, rupture, recommitment, dyadic ethics
+        |
+        v
+Paper 5 - Linguistic Governance
+Language as micro-governance interface
+        |
+        v
+Paper 6 - Governance Architecture
+Layered architecture and minimal stability conditions
+        |
+        v
+Paper 7 - Governed Distributed Cognition
+Human + AI + artefacts as a distributed cognitive system
+        |
+        v
+Paper 8 - Validation Layer
+Validation-centric architecture and adversarial evaluation
+```
+
+For the fuller map, see [CORPUS_MAP.md](CORPUS_MAP.md).
 
 ---
 
@@ -51,8 +114,12 @@ It treats long-horizon reliability as a *governance* problem, not a capability p
 | [Papers](Papers/) | Eight research papers covering governance, LC-OS, failure/repair, linguistic governance, architecture, cognition, and validation |
 | [Mahdi Ledger](Mahdi_Ledger/) | A published AI-authored collaboration ledger — the raw trace of LC-OS in action from the AI side |
 | [Research Architecture](Research_Architecture/) | Navigation infrastructure: research index, term registry, synthesis, layer map, and future research protocol |
+| [Corpus Map](CORPUS_MAP.md) | One-page visual map of the research sequence |
 | [Reader Guide](READER_GUIDE.md) | Practical entry paths for different audiences |
 | [Citation Guide](CITATION_GUIDE.md) | How to cite the repo, individual papers, OSF records, Zenodo records, and the Mahdi Ledger |
+| [Archive Policy](ARCHIVE_POLICY.md) | Rules for preserving published records while allowing metadata and navigation to improve |
+| [Contributing](CONTRIBUTING.md) | Maintenance rules for keeping the research archive aligned |
+| [Changelog](CHANGELOG.md) | Meaningful repository-level changes |
 
 > **Looking for practical templates and quick-start guides?**  
 > See the companion repository: **[LC-OS Project](https://github.com/LivingFramework/LC-OS-Project)**.
@@ -227,6 +294,7 @@ The Ledger serves as both a transparency artefact and a validation of LC-OS prin
 ## How to Read This Work
 
 - **If you want the fastest orientation:** read [READER_GUIDE.md](READER_GUIDE.md).
+- **If you want the corpus sequence:** read [CORPUS_MAP.md](CORPUS_MAP.md).
 - **If you want to understand the problem:** start with Paper 1.
 - **If you want to implement something:** start with Paper 2 and the [LC-OS Project](https://github.com/LivingFramework/LC-OS-Project) templates.
 - **If you want to see what failure looks like:** read Paper 3.
@@ -264,8 +332,12 @@ For the relationship between OSF, Zenodo, DOI records, and GitHub, see [CITATION
 
 ## Related
 
+- **[Corpus Map](CORPUS_MAP.md)** — one-page map of the research sequence
 - **[Reader Guide](READER_GUIDE.md)** — recommended entry points by reader type
 - **[Citation Guide](CITATION_GUIDE.md)** — how to cite the repo, papers, OSF records, Zenodo records, and Ledger
+- **[Archive Policy](ARCHIVE_POLICY.md)** — how the research archive preserves publication integrity
+- **[Contributing](CONTRIBUTING.md)** — maintenance rules for this research archive
+- **[Changelog](CHANGELOG.md)** — meaningful repository-level changes
 - **[Research Architecture](Research_Architecture/)** — maps, term registry, synthesis, and future research protocol
 - **[LC-OS Project](https://github.com/LivingFramework/LC-OS-Project)** — practitioner toolkit with templates, field manual, and quick-start guides
 - **[OSF Project](https://osf.io/7h6x8/)** — canonical archival versions of all papers
